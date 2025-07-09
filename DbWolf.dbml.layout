@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.625, 8.5" name="DbWolf">
+  <DataContextMoniker Name="/DbWolfDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e9e3dd12-aa8d-43f7-9dd1-f57c902fdc11" isExpanded="false" absoluteBounds="6.375, 0.625, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTTemplate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2ae351f-32df-4003-864c-cff774878b59" absoluteBounds="6.39, 1.085, 1.9700000000000002, 7.7491455078125009" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="880e89ad-50e3-4b21-9789-5c96515e5984" isExpanded="false" absoluteBounds="9.375, 0.625, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/TRNMemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="917ec185-8618-4eee-9119-774172e757b7" absoluteBounds="9.39, 1.085, 1.9700000000000002, 14.0950927734375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="adc50bcb-9702-45ee-8bfc-4ea89116b31f" isExpanded="false" absoluteBounds="6.375, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTTemplateLogic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="85501fec-012f-4e9b-b3c1-929509eecf48" absoluteBounds="6.39, 1.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b1dd545-fb13-483e-99ca-8ccebb0a5ed0" isExpanded="false" absoluteBounds="9.375, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/TRNActionHistory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d682d4b9-733f-4beb-8b0c-43678da2d8f6" absoluteBounds="9.39, 1.96, 1.9700000000000002, 7.941446940104167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2d41cebc-bb32-494a-96fe-77010f18308b" isExpanded="false" absoluteBounds="9.375, 2.375, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/TRNLineApprove" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1371494-6ed9-46fa-a021-a403542746cc" absoluteBounds="9.39, 2.835, 1.9700000000000002, 5.0569254557291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecec5462-749f-4b92-84ce-0cfb613916f3" isExpanded="false" absoluteBounds="6.375, 2.375, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f32cdae-cd94-454f-aae0-fe0e0e8fe756" absoluteBounds="6.39, 2.835, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a6443524-3023-4b05-867a-2e85c6503625" isExpanded="false" absoluteBounds="12.375, 0.625, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/ViewEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b748a9ee-beea-480e-b586-c796748922fa" absoluteBounds="12.39, 1.085, 1.9700000000000002, 6.403035481770833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="83fc2ef6-b687-496f-b00c-c35db74adab4" isExpanded="false" absoluteBounds="6.375, 3.125, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTCompany" />
+      <nestedChildShapes>
+        <elementListCompartment Id="440607a1-78dc-46a9-af30-7dc566fc825b" absoluteBounds="6.3900000000000006, 3.585, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d91b11a7-d135-49ab-91aa-b5453c06aebc" isExpanded="false" absoluteBounds="6.375, 3.875, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTDivision" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7cbc5054-2abf-4780-bd3d-3f84bb4117b6" absoluteBounds="6.3900000000000006, 4.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e5e82bad-021a-48cf-8cd1-84fbce6384cf" isExpanded="false" absoluteBounds="6.375, 4.625, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTMasterData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cad44c46-4eee-4b4e-9d38-7227912f3c22" absoluteBounds="6.39, 5.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e625c30-5d2e-4814-870c-fc51e173a037" isExpanded="false" absoluteBounds="6.375, 5.375, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTTemLineApprove" />
+      <nestedChildShapes>
+        <elementListCompartment Id="014f39c3-37e6-4774-8921-d42a203df5b1" absoluteBounds="6.39, 5.835, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="70be82a6-8637-41c6-803f-4c949b4ce01a" isExpanded="false" absoluteBounds="6.375, 6.125, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTDepartment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f7055e60-f81e-4c64-8560-9804a700ee7f" absoluteBounds="6.39, 6.585, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="afe0e68f-a373-4f8f-a87c-37cd600a1d1d" isExpanded="false" absoluteBounds="6.375, 6.875, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTTemSpecificApprover" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3d79427-5932-492e-95d6-a82dbce1b40c" absoluteBounds="6.3900000000000006, 7.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d44e2b9d-cb0e-402f-b68e-4bbe5a6c6708" isExpanded="false" absoluteBounds="6.375, 7.625, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTUserPermission" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87a3399d-e1bf-4612-a8b9-f42818789387" absoluteBounds="6.3900000000000006, 8.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebb0f7ba-eac5-47dc-982f-5af2d875e22d" isExpanded="false" absoluteBounds="3.125, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/DbWolfDataContext/TRNMemoForm" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e3a1b2d-b5e5-4dd3-9c29-a4f524292aaf" absoluteBounds="3.14, 1.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="82e77a9e-e2b8-4d88-a13e-ed9deef664c2" absoluteBounds="3.875, 2.375, 2, 2.5401025390625">
+      <DataClassMoniker Name="/DbWolfDataContext/MSTRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55e8a88c-4a4f-4caa-b196-596a353b165f" absoluteBounds="3.89, 2.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73fa5971-65f9-4106-8b57-ac03af038c29" absoluteBounds="2.5, 3.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DbWolfDataContext/TRNControlRunning" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8499e19-def2-42b0-8952-39094b6f87b3" absoluteBounds="2.515, 3.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
